@@ -1,0 +1,26 @@
+body{
+    background-color:antiquewhite;
+    font-family:'Space Mono',monospace;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 40;
+    line-height: 1;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+
+div{
+    width:55%;
+    margin-left: 30px;
+    margin-top:300px;
+}
+span{
+    text-shadow: 8px 8px 2px rgb(111, 98, 65);
+                    
+}
