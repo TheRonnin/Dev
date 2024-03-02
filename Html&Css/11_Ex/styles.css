@@ -1,0 +1,46 @@
+/* Styling for the overall page body */
+body{
+    background-color: #463d36;
+    font-family: sans-serif;
+    color:#463d36;
+}
+
+/* Styling for the main content container */
+.container{
+    width:600px;
+    background-color: white;
+    padding:40px;
+    border-radius:20px;
+    margin:100px auto;
+}
+
+/* Styling for the main heading within the container */
+.container h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    margin-top:0;
+    font-weight: 100;
+}
+
+/* Styling for the secondary heading within the container */
+.container h2{
+    text-transform: uppercase;
+    font-size: 28px;
+    color:rgb(226, 57, 57);
+    margin-bottom:0;
+}
+
+/* Styling for paragraphs within the container */
+.container p{
+    font-size:28px;
+}
+
+/* Styling for buttons within the container */
+.container button{
+    font-size:24px;
+    text-transform: uppercase;
+    background-color: #463d36;
+    color:white;
+    font-weight: bold;
+    padding: 30px 40px;
+}
